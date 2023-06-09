@@ -1,0 +1,8 @@
+void main(){
+  String nama = 'Afrylian';
+  String umur = '21';
+  String alamat = 'Medan';
+  
+  print("Nama= $nama, Umur= $umur, Alamat= $alamat");
+  
+}

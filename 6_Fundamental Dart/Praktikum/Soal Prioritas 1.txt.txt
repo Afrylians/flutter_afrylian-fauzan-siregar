@@ -1,0 +1,12 @@
+void main(){
+  var alas = 6;
+  var tinggi = 12;
+  var miring = 24;
+  
+  var keliling = alas + tinggi + miring;
+  var luas = alas * tinggi /2;
+  
+    print("keliling = $keliling");
+    print("luas = $luas");
+  
+}
